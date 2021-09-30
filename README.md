@@ -1,4 +1,4 @@
-Website accessible using following link:https://git.heroku.com/password-generator-adi.git
+Website accessible using following link:https://password-generator-adi.herokuapp.com/
 
 # Getting Started with Create React App
 
